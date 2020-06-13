@@ -61,13 +61,13 @@
 
     <icon src="icon.png" />
     <gap:splash src="splash.png" />
-      <gap:plugin name="cordova-android-support-gradle-release" spec="https://github.com/dpa99c/cordova-android-support-gradle-             release">
+      <gap:plugin name="cordova-android-support-gradle-release" spec="https://github.com/dpa99c/cordova-android-support-gradle-release">
 
         <variable name="ANDROID_SUPPORT_VERSION" value="27.+" />
 
     </gap:plugin>
 
-    
+
 
     <platform name="android">
         <icon src="resources/android/icon/drawable-ldpi-icon.png" qualifier="ldpi"/>
