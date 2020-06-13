@@ -116,8 +116,6 @@
         <splash src="resources/ios/splash/Default-Portrait@~ipadpro.png" width="2048" height="2732"/>
     </platform>
 
-    <gap:plugin name="cordova-android-support-gradle-release" spec="github.com/dpa99c/cordova-android-support-gradle-release">
-<variable name="ANDROID_SUPPORT_VERSION" value="27.+" />
 
     <gap:plugin name="cordova-plugin-camera" source="npm" />
     <gap:plugin name="cordova-plugin-media-capture" source="npm">
